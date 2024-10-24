@@ -9,6 +9,11 @@ The goal of this project is to forecast the **carbon intensity** of the electric
 - **EDA and Modelling Notebooks**: Available in the `notebooks` directory for clarity in presenting code and results. Once finalized, the code will be moved to `.py` scripts for production.
 - **Download Script**: The script for downloading generation mix data can be found in `download_generation_mix.py`.
 
+## Running Files
+
+- A conda environment can be created by running `bash setup.sh`.
+
+
 ## Forecast Features Used
 
 - Energy demand
